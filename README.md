@@ -1,3 +1,5 @@
 # WavingBot
 
-Detects waving and sends a signal to arduino
+Based on opencv 
+
+- Detects waving and sends a signal to arduino
