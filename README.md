@@ -1,4 +1,4 @@
-# WavingBot
+# WavingBot 
 
 Libraries used
 - numpy 
@@ -7,5 +7,5 @@ Libraries used
 - time
 
 What can this code do?
-- detect waving hand motion
+- detect waving hand motion 👋
 - pass a flag value to an arduino based controller
