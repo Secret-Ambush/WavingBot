@@ -1,5 +1,11 @@
 # WavingBot
 
-Based on opencv 
+Libraries used
+- numpy 
+- cv2
+- serial
+- time
 
-- Detects waving and sends a signal to arduino
+What can this code do?
+- detect waving hand motion
+- pass a flag value to an arduino based controller
