@@ -1,4 +1,4 @@
-# WavingBot 
+## WavingBot 
 
 Libraries used
 - numpy 
